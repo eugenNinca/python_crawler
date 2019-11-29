@@ -1,2 +1,1 @@
-# python_crawler
-Threaded Crawler in Python
+# Threaded Crawler in Python
